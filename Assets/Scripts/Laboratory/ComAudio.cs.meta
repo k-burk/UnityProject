@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: da11de726c71d084cabe50e2a10e01f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rocktalk: {fileID: 8300000, guid: 0529f322432be3148ba68304893c9806, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
